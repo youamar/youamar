@@ -60,9 +60,6 @@
         <img alt="Visual Studio" src="img/visualstudio/visualstudio-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="Twitter" src="img/twitter/twitter-original.svg" width="5%" height="5%"/>
-    </a>
-    <a>
         <img alt="Firefox" src="img/firefox/firefox-original.svg" width="5%" height="5%"/>
     </a>
     <a>
