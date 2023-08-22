@@ -81,9 +81,6 @@
         <img alt="Docker" src="img/docker/docker-plain.svg" width="5%" height="5%"/>
     </a>
     <a>
-        <img alt="Heroku" src="img/heroku/heroku-original.svg" width="5%" height="5%"/>
-    </a>
-    <a>
         <img alt="PyTorch" src="img/pytorch/pytorch-original.svg" width="5%" height="5%"/>
     </a>
     <a>
