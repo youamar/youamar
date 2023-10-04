@@ -96,7 +96,7 @@
 
 <h1 align="center">
     <p>
-        <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&center=true&lines=SSoftware+Developer+Student+at+HE2B-ESI">
+        <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&center=true&lines=SSoftware+Development+Student+at+HE2B-ESI">
     </p>
 </h1>
 
